@@ -11,7 +11,7 @@ nftset=/adguard.com/4#inet#fw4#vpn_domains
 nftset=/avira.com/4#inet#fw4#vpn_domains
 nftset=/chess.com/4#inet#fw4#vpn_domains
 
-# torrent
+
 nftset=/1337x.to/4#inet#fw4#vpn_domains
 nftset=/rutor.info/4#inet#fw4#vpn_domains
 nftset=/rutor.is/4#inet#fw4#vpn_domains
@@ -28,7 +28,7 @@ nftset=/fast-torrent.club/4#inet#fw4#vpn_domains
 nftset=/filmitorrent.net/4#inet#fw4#vpn_domains
 nftset=/piratbit.top/4#inet#fw4#vpn_domains
 
-# news
+
 nftset=/agents.media/4#inet#fw4#vpn_domains
 nftset=/arbat.media/4#inet#fw4#vpn_domains
 nftset=/bbc.co.uk/4#inet#fw4#vpn_domains
@@ -60,7 +60,7 @@ nftset=/proekt.media/4#inet#fw4#vpn_domains
 nftset=/radiosvoboda.org/4#inet#fw4#vpn_domains
 nftset=/republic.ru/4#inet#fw4#vpn_domains
 
-# films
+
 nftset=/dorama.live/4#inet#fw4#vpn_domains
 nftset=/doramalive.ru/4#inet#fw4#vpn_domains
 nftset=/doramy.club/4#inet#fw4#vpn_domains
@@ -86,13 +86,13 @@ nftset=/rezka.ag/4#inet#fw4#vpn_domains
 nftset=/rezka.my/4#inet#fw4#vpn_domains
 nftset=/seasonvar.ru/4#inet#fw4#vpn_domains
 
-# books
+
 nftset=/ficbook.net/4#inet#fw4#vpn_domains
 nftset=/flibusta.is/4#inet#fw4#vpn_domains
 nftset=/flibusta.net/4#inet#fw4#vpn_domains
 nftset=/abook-club.ru/4#inet#fw4#vpn_domains
 
-# x.com
+
 nftset=/x.ai/4#inet#fw4#vpn_domains
 nftset=/x.com/4#inet#fw4#vpn_domains
 nftset=/twitter.biz/4#inet#fw4#vpn_domains
@@ -107,7 +107,7 @@ nftset=/twtrdns.net/4#inet#fw4#vpn_domains
 nftset=/twttr.com/4#inet#fw4#vpn_domains
 nftset=/twttr.net/4#inet#fw4#vpn_domains
 
-# youtube
+
 nftset=/youtu.be/4#inet#fw4#vpn_domains
 nftset=/youtube-nocookie.com/4#inet#fw4#vpn_domains
 nftset=/youtube-ui.l.google.com/4#inet#fw4#vpn_domains
@@ -122,30 +122,8 @@ nftset=/wide-youtube.l.google.com/4#inet#fw4#vpn_domains
 nftset=/returnyoutubedislikeapi.com/4#inet#fw4#vpn_domains
 nftset=/proactivebackend-pa.googleapis.com/4#inet#fw4#vpn_domains
 
-# viber
+
 nftset=/viber.com/4#inet#fw4#vpn_domains
 nftset=/viber.co/4#inet#fw4#vpn_domains
 nftset=/viber.me/4#inet#fw4#vpn_domains
 nftset=/vbcdn.net/4#inet#fw4#vpn_domains
-
-# discord
-nftset=/dis.gd/4#inet#fw4#vpn_domains
-nftset=/discord-activities.com/4#inet#fw4#vpn_domains
-nftset=/discord-attachments-uploads-prd.storage.googleapis.com/4#inet#fw4#vpn_domains
-nftset=/discord.co/4#inet#fw4#vpn_domains
-nftset=/discord.com/4#inet#fw4#vpn_domains
-nftset=/discord.design/4#inet#fw4#vpn_domains
-nftset=/discord.dev/4#inet#fw4#vpn_domains
-nftset=/discord.gg/4#inet#fw4#vpn_domains
-nftset=/discord.gift/4#inet#fw4#vpn_domains
-nftset=/discord.gifts/4#inet#fw4#vpn_domains
-nftset=/discord.media/4#inet#fw4#vpn_domains
-nftset=/discord.new/4#inet#fw4#vpn_domains
-nftset=/discord.store/4#inet#fw4#vpn_domains
-nftset=/discord.tools/4#inet#fw4#vpn_domains
-nftset=/discordactivities.com/4#inet#fw4#vpn_domains
-nftset=/discordapp.com/4#inet#fw4#vpn_domains
-nftset=/discordapp.net/4#inet#fw4#vpn_domains
-nftset=/discordmerch.com/4#inet#fw4#vpn_domains
-nftset=/discordpartygames.com/4#inet#fw4#vpn_domains
-nftset=/discordsays.com/4#inet#fw4#vpn_domains
